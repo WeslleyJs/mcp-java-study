@@ -1,0 +1,25 @@
+2025-03-25T22:02:48.752-03:00  INFO 14640 --- [main] m.m.u.McpServerUsefulToolsApplication    : Starting McpServerUsefulToolsApplication using Java 17.0.13 with PID 14640 (C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main\target\classes started by wesll in C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main)
+2025-03-25T22:02:48.755-03:00  INFO 14640 --- [main] m.m.u.McpServerUsefulToolsApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T22:02:50.222-03:00  INFO 14640 --- [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-03-25T22:02:50.422-03:00  INFO 14640 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-03-25T22:02:50.432-03:00  INFO 14640 --- [main] m.m.u.McpServerUsefulToolsApplication    : Started McpServerUsefulToolsApplication in 2.295 seconds (process running for 3.019)
+2025-03-25T22:03:38.321-03:00  INFO 8756 --- [main] m.m.u.McpServerUsefulToolsApplication    : Starting McpServerUsefulToolsApplication using Java 17.0.13 with PID 8756 (C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main\target\classes started by wesll in C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main)
+2025-03-25T22:03:38.323-03:00  INFO 8756 --- [main] m.m.u.McpServerUsefulToolsApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T22:03:39.792-03:00  INFO 8756 --- [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-03-25T22:03:39.984-03:00  INFO 8756 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-03-25T22:03:39.993-03:00  INFO 8756 --- [main] m.m.u.McpServerUsefulToolsApplication    : Started McpServerUsefulToolsApplication in 2.22 seconds (process running for 2.858)
+2025-03-25T22:09:40.692-03:00  INFO 9828 --- [main] m.m.u.McpServerUsefulToolsApplication    : Starting McpServerUsefulToolsApplication using Java 17.0.13 with PID 9828 (C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main\target\classes started by wesll in C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main)
+2025-03-25T22:09:40.697-03:00  INFO 9828 --- [main] m.m.u.McpServerUsefulToolsApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T22:09:42.113-03:00  INFO 9828 --- [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-03-25T22:09:42.308-03:00  INFO 9828 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-03-25T22:09:42.316-03:00  INFO 9828 --- [main] m.m.u.McpServerUsefulToolsApplication    : Started McpServerUsefulToolsApplication in 2.138 seconds (process running for 2.776)
+2025-03-25T22:13:24.360-03:00  INFO 4796 --- [main] m.m.u.McpServerUsefulToolsApplication    : Starting McpServerUsefulToolsApplication using Java 17.0.13 with PID 4796 (C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main\target\classes started by wesll in C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main)
+2025-03-25T22:13:24.363-03:00  INFO 4796 --- [main] m.m.u.McpServerUsefulToolsApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T22:13:26.026-03:00  INFO 4796 --- [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-03-25T22:13:26.264-03:00  INFO 4796 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-03-25T22:13:26.272-03:00  INFO 4796 --- [main] m.m.u.McpServerUsefulToolsApplication    : Started McpServerUsefulToolsApplication in 2.453 seconds (process running for 3.123)
+2025-03-25T22:19:54.233-03:00  INFO 2768 --- [main] m.m.u.McpServerUsefulToolsApplication    : Starting McpServerUsefulToolsApplication using Java 17.0.13 with PID 2768 (C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main\target\classes started by wesll in C:\Users\wesll\OneDrive\Área de Trabalho\mcp-server-useful-tools-main)
+2025-03-25T22:19:54.237-03:00  INFO 2768 --- [main] m.m.u.McpServerUsefulToolsApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-03-25T22:19:55.800-03:00  INFO 2768 --- [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2, notification: true
+2025-03-25T22:19:56.001-03:00  INFO 2768 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8080 (http)
+2025-03-25T22:19:56.010-03:00  INFO 2768 --- [main] m.m.u.McpServerUsefulToolsApplication    : Started McpServerUsefulToolsApplication in 2.357 seconds (process running for 3.126)
